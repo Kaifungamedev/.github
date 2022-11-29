@@ -1,2 +1,2 @@
 # .github
-asse shard betwen repos
+asset shard betwen repos
